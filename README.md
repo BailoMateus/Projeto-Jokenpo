@@ -45,7 +45,7 @@ O programa também registra e exibe estatísticas separadas para cada modo de jo
 1. Certifique-se de ter o Python instalado na sua máquina (versão 3.6 ou superior).
 2. Clone este repositório ou copie o código para um arquivo `.py`:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repo.git
+   git clone https://github.com/BailoMateus/Projeto-Jokenpo.git
 
 📘 Observações
 O código foi escrito sem o uso de listas, funções ou estruturas avançadas, para seguir as restrições da disciplina.
