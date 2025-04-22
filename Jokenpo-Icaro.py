@@ -1,3 +1,10 @@
+# ----------------------------------------------------------
+# Trabalho PjBL 1 - Raciocínio Algorítmico
+# Projeto Jokenpo 
+# Feito por: Mateus Luiz Bailo, Bruno Hinz e Icaro Nunes
+# ----------------------------------------------------------
+
+
 import random
 
 # Variáveis para contagem geral
